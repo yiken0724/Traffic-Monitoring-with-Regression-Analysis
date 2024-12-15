@@ -1,6 +1,3 @@
 # Traffic-Monitoring-with-Regression-Analysis
-This is a group project intended for the course MH3510 Regression Analysis at Nanyang Technological University. The project was coded in R language using RStudio. A Multiple Linear Regression model was used to fit the data.
 
-Grade: 7/10
-
-
+This is a group project intended for MH3510 Regression Analysis at Nanyang Technological University. This project was implemented in R language and mainly focused on building a Multiple Linear Regression model and fitting the data to the model. In addition, multiple tests such as Durbin-Watson test and F-test are conducted to measure performance of MLR model. This assignment was graded 7/10.
